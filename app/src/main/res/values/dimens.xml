@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_size">60dp</dimen>
+    <dimen name="padding02">20dp</dimen>
+    <dimen name="radius10">10dp</dimen>
+</resources>

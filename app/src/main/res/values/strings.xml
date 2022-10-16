@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit_Sample</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="load_person">Load Data List</string>
+</resourc
