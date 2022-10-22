@@ -11,7 +11,7 @@ Please read the comments thoroughly before use
 public class RetrofitClient {
 
     /*In this section, you must enter your domain and save your files and give a link like the example*/
-    private static String BASE_URL = "http://192.168.249.75/RetofitDb/";
+    private static String BASE_URL = "http://192.168/.../RetofitDb/";
 
     private static RetrofitClient myClient;
 
