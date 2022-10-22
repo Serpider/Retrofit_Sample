@@ -1,8 +1,9 @@
-#Examples of Retrofit library applications
+# Examples of Retrofit library applications
+![alt text](https://serpider.com/Github/Header/Retrofit%20Sample%20(serpider.com)%20.jpg)
 
 We have prepared a project for you so that you can use it for retrofit applications.
 
-#Elements used in this project
+# Elements used in this project
 - Navigation Comporent
 - Jetpack
 - Androidx
@@ -10,7 +11,7 @@ We have prepared a project for you so that you can use it for retrofit applicati
 
 
 
-##Used By
+## Used By
 
 This project is used by the following companies:
 
@@ -21,10 +22,10 @@ This project is used by the following companies:
 - Retrofit safety and security (v 1.8.1)
 
 
-##🛠 Skills
+## 🛠 Skills
 Java, Php, Xml...
 
-##Authors
+## Authors
 
 - [@Serpider](https://www.github.com/Serpider)
 
